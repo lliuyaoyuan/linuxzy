@@ -1,0 +1,15 @@
+---
+title: "Linux课程大作业完成记录"
+date: 2022-12-09T08:32:27-04:00
+draft: ture
+---
+## 安装Git
+**1.安装依赖包**
+```
+dnf install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+dnf install gcc perl-ExtUtils-MakeMaker
+
+```
+![在这里插入图片](https://github.com/lliuyaoyuan/linuxzypicture/blob/main/pictures/%E5%9B%BE%E7%89%871.png,size_16,color_FFFFFF,t_70)
+
+--INSERT--
